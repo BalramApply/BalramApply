@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking full time opportunity<br>I'm looking to collaborate on Development<br>I'm currently learning React.JS<br>Ask me about balramapply123@gmail.com<br>fun fact The first website was created in 1991
+I'm currently looking full time opportunity<br>I'm looking to collaborate on Development<br>I'm currently learning TypeScript<br>Ask me about balramapply123@gmail.com<br>fun fact The first website was created in 1991
 
 
 ## 🌐 Socials:
